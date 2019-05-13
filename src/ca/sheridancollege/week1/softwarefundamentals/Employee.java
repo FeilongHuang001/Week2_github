@@ -4,6 +4,7 @@
  * and open the template in the editor.
  *
  * Line #1 Added.
+ * Line #3.
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
